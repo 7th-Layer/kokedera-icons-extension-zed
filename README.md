@@ -39,7 +39,7 @@
 For the full experience, install both:
 
 - **[Kokedera Theme](https://github.com/7th-Layer/kokedera-theme-extension-zed)** — the color theme
-- **Kokedera Icons** — this icon pack
+- **[Kokedera Icons](https://github.com/7th-Layer/kokedera-icons-extension-zed)** — this icon pack
 
 ## License
 
