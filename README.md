@@ -36,10 +36,9 @@
 
 ## Pair with the theme
 
-For the full experience, install both:
+For the full experience, install the matching color theme:
 
-- **[Kokedera Theme](https://github.com/7th-Layer/kokedera-theme-extension-zed)** — the color theme
-- **[Kokedera Icons](https://github.com/7th-Layer/kokedera-icons-extension-zed)** — this icon pack
+- **[Kokedera Theme](https://github.com/7th-Layer/kokedera-theme-extension-zed)**
 
 ## License
 
