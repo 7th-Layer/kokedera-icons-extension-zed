@@ -1,6 +1,6 @@
 # 苔寺 Kokedera Icons
 
-*File icons from the moss garden — for [Zed](https://zed.dev).*
+*A file icon theme for [Zed](https://zed.dev), inspired by the moss temple garden in Kyoto.*
 
 > **[kokedera.style](https://kokedera.style)** — visit the website for a full visual walkthrough of the palette, syntax highlighting, and icons.
 
@@ -10,9 +10,9 @@
 
 **Kokedera Icons** is a file icon theme for Zed, designed to pair with the [Kokedera color theme](https://zed.dev/extensions/kokedera-theme). Every icon draws from the same palette of moss greens, lantern ambers, and stone grays.
 
-- **151 file & folder icons** covering languages, frameworks, configs, DevOps, docs, and media
-- **21 named folder icons** with collapsed/expanded variants, covering 146 folder names (src, lib, tests, components, api, database, docker, and more)
-- **560+ file name & extension mappings** — from `.rs` to `.prisma` to `kustomization.yaml`
+- **File & folder icons** covering languages, frameworks, configs, DevOps, docs, and media
+- **Named folder icons** with collapsed/expanded variants (src, lib, tests, components, api, database, docker, and more)
+- **Hundreds of file name & extension mappings** — from `.rs` to `.prisma` to `kustomization.yaml`
 
 ## Installation
 
@@ -23,7 +23,7 @@
 5. Click **Install**
 6. Open Settings and set your icon theme to **Kokedera Icons**
 
-## Pair with the theme
+## Pair with the color theme
 
 For the full experience, install the matching color theme:
 
