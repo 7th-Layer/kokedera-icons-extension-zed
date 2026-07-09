@@ -1,7 +1,7 @@
 id = "kokedera-icons"
-name = "Kokedera — Japanese Moss Temple Icons"
+name = "Kokedera — Moss Temple Icons"
 version = "1.1.0"
 schema_version = 1
 authors = ["lastdescent"]
-description = "A file icon theme inspired by the moss-covered temple garden Saihō-ji (苔寺) in Kyoto. Flat, organic shapes drawn from moss, stone, and lantern light."
+description = "A moss-temple file icon theme — flat, organic shapes in moss, stone, and lantern light."
 repository = "https://github.com/lastdescent/kokedera-icons-extension-zed"
