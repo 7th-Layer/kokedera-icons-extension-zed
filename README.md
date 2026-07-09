@@ -1,6 +1,6 @@
-# 苔寺 Kokedera Icons
+# Kokedera Icons
 
-*A file icon theme for [Zed](https://zed.dev), inspired by the moss temple garden in Kyoto.*
+*A file icon theme for [Zed](https://zed.dev), drawn from the quiet green of a moss temple garden.*
 
 > **[kokedera.style](https://kokedera.style)** — visit the website for a full visual walkthrough of the palette, syntax highlighting, and icons.
 
