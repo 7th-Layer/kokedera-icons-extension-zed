@@ -14,6 +14,10 @@
 - **Named folder icons** with collapsed/expanded variants (src, lib, tests, components, api, database, docker, and more)
 - **Hundreds of file name & extension mappings** — from `.rs` to `.prisma` to `kustomization.yaml`
 
+## Icon sets
+
+One set per Kokedera color theme variant — pick the one matching your theme in **Select Icon Theme**: Morning, Dusk, Night, Spring, Summer, Autumn, Winter, Rain, Mist. Morning and Winter are tuned for light sidebars.
+
 ## Installation
 
 1. Open **Zed**
