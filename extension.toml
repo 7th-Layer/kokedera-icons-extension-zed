@@ -1,7 +1,7 @@
 id = "kokedera-icons"
-name = "Kokedera — Moss Temple Icons"
-version = "2.0.0"
+name = "Kokedera Icons"
+version = "2.0.1"
 schema_version = 1
 authors = ["lastdescent"]
-description = "Moss-temple file icon themes — nine sets matching the Kokedera color theme variants."
+description = "File and folder icons inspired by forest greens, weathered stone, and warm lantern light — nine sets matching Kokedera Theme."
 repository = "https://github.com/lastdescent/kokedera-icons-extension-zed"
